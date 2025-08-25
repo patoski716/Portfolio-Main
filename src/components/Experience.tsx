@@ -23,20 +23,20 @@ const experiences = [
 
     ],
   },
-  {
-    role: "Senior UIUX Designer | MyDocki, Nigeria",
-    period: "March 2025 – July 2025 (Remote, Part-time, Contract)",
+  // {
+  //   role: "Senior UIUX Designer | MyDocki, Nigeria",
+  //   period: "March 2025 – July 2025 (Remote, Part-time, Contract)",
    
-    details: [
-      "Designed end-to-end user experiences for MyDocki, a telemedicine platform offering doctor consultations, pharmacy ordering, and patient health management.",
+  //   details: [
+  //     "Designed end-to-end user experiences for MyDocki, a telemedicine platform offering doctor consultations, pharmacy ordering, and patient health management.",
 
-      "Conducted user research and usability testing with patients and doctors, leading to a 30% faster consultation booking process and a 25% improvement in pharmacy order completion rates.",
+  //     "Conducted user research and usability testing with patients and doctors, leading to a 30% faster consultation booking process and a 25% improvement in pharmacy order completion rates.",
 
-      "Implemented a scalable design system that ensured consistency across the patient app, doctor portal, and pharmacy interface, reducing UI inconsistencies by 40%.",
+  //     "Implemented a scalable design system that ensured consistency across the patient app, doctor portal, and pharmacy interface, reducing UI inconsistencies by 40%.",
 
-      "Collaborated with cross-functional teams (engineering, medical consultants, and business stakeholders) to align product features with compliance standards and business goals.",
-    ],
-  },
+  //     "Collaborated with cross-functional teams (engineering, medical consultants, and business stakeholders) to align product features with compliance standards and business goals.",
+  //   ],
+  // },
   {
     role: "Lead UIUX Designer  | Leptons Multiconcept, Nigeria",
     period: "May 2024 – June 2025 (Onsite, Fulltime)",
