@@ -53,9 +53,9 @@ export const metadata: Metadata = {
   category: "technology",
   classification: "Portfolio",
   openGraph: {
-    title: "Patrick Chimezie Chukwudifu | FrontEnd Engineer Portfolio",
+    title: "Patrick Chimezie Chukwudifu | UIUX Designer/ Product Manager Portfolio",
     description:
-      "Explore my projects, skills, and experience as a FrontEnd Engineer specializing in modern, responsive, and high-performance web applications.",
+      "Portfolio of Patrick Chimezie Chukwudifu, a skilled UIUX Designer/Product Manager specializing in designing intuitive, scalable, and user-centered digital products that seamlessly connect business goals with customer needs.",
     url: "https://patoski.netlify.app",
     siteName: "Patrick Chimezie Chukwudifu Portfolio",
     images: [
