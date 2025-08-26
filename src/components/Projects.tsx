@@ -90,17 +90,13 @@ const Projects = () => {
                 {project.description}
               </p>
 
-              {/* <div className="flex items-center gap-[33px] flex-wrap font-[400] text-[14px] md:text-[16px] text-[#032c22] dark:text-[#64FFDA]">
-                {project.tech.map((t, i) => (
-                  <p key={i}>{t}</p>
-                ))}
-              </div> */}
+              
 
               <a
                 href={project.link}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-[10px] rounded-[8px] bg-[#FFFFFF] inline-flex items-center justify-center gap-2 cursor-pointer transition-colors duration-200"
+                className="p-[10px] rounded-[8px] bg-[#FFFFFF] inline-flex items-center justify-center gap-2 cursor-pointer  duration-200"
                 data-aos="zoom-in"
                 data-aos-delay="150"
               >

@@ -73,6 +73,7 @@ export default function Home() {
       <Experience />
       <Skills />
       <Projects />
+      
     </div>
   );
 }
