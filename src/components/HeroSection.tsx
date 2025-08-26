@@ -58,7 +58,7 @@ const HeroSection = () => {
             I design intuitive, scalable, and user-centered digital products that seamlessly connect business goals with customer needs. With over 4 years of experience in UI/UX design and product management, I bridge the gap between design and strategy—crafting experiences that are both visually engaging and business-driven. Skilled in tools like Figma, Trello, Microsoft Suite, and Google Workspace, I lead cross-functional teams from ideation to launch, ensuring every product delivers measurable value. My approach combines research-driven design, agile product development, and strategic roadmapping to create impactful solutions that drive growth, efficiency, and exceptional user satisfaction.
           </p>
           <a
-            href="https://drive.google.com/file/d/1RqHNeKRP7acrVX9kTukI_szsUEAZc3eg/view?usp=sharing"
+            href="https://docs.google.com/document/d/1y1VdzvZD_VY_8ZisEa39zHwqRyi-JW8n68II1EeQfeA/edit?usp=sharing"
             
             target="_blank"
           >
