@@ -39,7 +39,7 @@ const experiences = [
   // },
   {
     role: "Lead UIUX Designer  | Leptons Multiconcept, Nigeria",
-    period: "May 2024 – June 2025 (Onsite, Fulltime)",
+    period: "May 2024 – June 2025 (Hybrid, Fulltime)",
     
     details: [
       "Drove UX/UI strategy and system redesigns across platforms for real estate, Fintech, and e-commerce, which enhanced user satisfaction and increased platform adoption.",
