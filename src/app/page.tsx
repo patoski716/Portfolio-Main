@@ -7,6 +7,8 @@ import Skills from "@/components/Skills";
 import Image from "next/image";
 import { useEffect, useState } from "react";
 
+
+
 export default function Home() {
   const [showButton, setShowButton] = useState(false);
 

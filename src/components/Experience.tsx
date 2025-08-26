@@ -116,7 +116,7 @@ const Experience = () => {
         {experiences.map((exp, index) => (
           <div
             key={index}
-            className="bg-[#f5f5f5] dark:bg-[#48484A] rounded-[8px] overflow-hidden"
+            className="bg-[#48484A] dark:bg-[#48484A] rounded-[8px] overflow-hidden"
             data-aos="fade-up"
             data-aos-delay={index * 150}
           >
@@ -139,9 +139,9 @@ const Experience = () => {
   </div>
 
   {openIndex === index ? (
-    <FaChevronUp className="text-[#000000] dark:text-white text-[18px] ml-4" />
+    <FaChevronUp className="text-[#000000] text-white text-[18px] ml-4" />
   ) : (
-    <FaChevronDown className=" text-[#000000] dark:text-white text-[18px] ml-4" />
+    <FaChevronDown className=" text-[#000000] text-white text-[18px] ml-4" />
   )}
 </button>
 

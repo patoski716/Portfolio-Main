@@ -39,7 +39,7 @@ const HeroSection = () => {
               height={350}
               loading="lazy"
               priority={false}
-              className="object-cover w-full h-full hidden md:block object-top -translate-y-3"
+              className="object-cover w-screen h-full hidden md:block object-top -translate-y-3"
             />
           </div>
         </div>
@@ -63,10 +63,10 @@ const HeroSection = () => {
             target="_blank"
           >
             <div
-              className="p-[10px] rounded-[8px]  bg-[#48484A] dark:bg-[#FFFFFF] inline-flex items-center justify-center gap-2 cursor-pointer hover:bg-gray-100 transition-colors duration-200"
+              className="p-[10px] rounded-[8px]  bg-[#FFFFFF] inline-flex items-center justify-center gap-2 cursor-pointer  transition-colors duration-200"
               data-aos="zoom-in"
             >
-              <p className="font-[500] text-[16px] text-[#ffffff] dark:text-[#48484A]">
+              <p className="font-[500] text-[16px] text-[#48484A]">
                 View My Resume
               </p>
               <Image

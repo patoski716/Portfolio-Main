@@ -19,7 +19,7 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   
   // Enable SWC minification
-  swcMinify: true,
+  // swcMinify: true,
   
   // Headers for security and performance
   async headers() {
