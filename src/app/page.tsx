@@ -40,20 +40,32 @@ export default function Home() {
         </div>
       )}
 
-      <div className="fixed bottom-8 right-6 z-50 animate-pulse">
+      {/* <div className="fixed bottom-8 right-6 z-50 animate-pulse">
         <a
           href="https://wa.me/+2348167000077"
           target="_blank"
           rel="noopener noreferrer"
         >
           <Image
-            src="/Assets/WhatsappIcon.png"
+            src="/Assets/whatsapp.png"
             alt="WhatsApp"
             width={200}
             height={50}
             priority={true}
           />
         </a>
+      </div> */}
+<div className="fixed bottom-8 right-6 z-50 animate-pulse">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=patoski716@gmail.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-white text-[#48484A] px-4 py-2 rounded-full shadow-lg transition"
+      >
+        <Image
+          src="/Assets/gmail.svg" // place a whatsapp.svg in your /public/Assets folder
+          alt="WhatsApp"
+          width={24}
+          height={24}
+        />
+        <span className="font-medium">Email me</span>
+      </a>
       </div>
 
       <Nav />
