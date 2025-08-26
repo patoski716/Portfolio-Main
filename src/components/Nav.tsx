@@ -29,7 +29,7 @@ const Nav = () => {
         className={`
     hidden md:flex items-start justify-between
     transition-all duration-500 ease-in-out
-    ${ isScrolled ? "fixed top-0 left-0 right-0 bg-[#0a0a0a] shadow-lg border-b z-50 py-3 px-[100px]" : "sticky top-0 bg-[#0a0a0a]" }
+    ${ isScrolled ? "fixed top-0 left-0 right-0 bg-[#0a0a0a] shadow-lg border-b z-50 py-3 px-[100px]" : "sticky top-0 " }
   `}
         data-aos={isScrolled ? "fade-down" : "fade-down"}
       >
