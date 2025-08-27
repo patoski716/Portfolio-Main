@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Patrick Chimezie Chukwudifu | FrontEnd Engineer Portfolio",
+  title: "Patrick Chimezie Chukwudifu | UIUX Designer Portfolio",
   description:
     "Portfolio of Patrick Chimezie Chukwudifu, a skilled UIUX Designer/Product Manager specializing in designing intuitive, scalable, and user-centered digital products that seamlessly connect business goals with customer needs.",
   keywords: [
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     siteName: "Patrick Chimezie Chukwudifu Portfolio",
     images: [
       {
-        url: "/Assets/Pics1.JPG",
+        url: "/Assets/proc.JPG",
         width: 1200,
         height: 630,
         alt: "Patrick Chimezie Chukwudifu Portfolio Preview",
