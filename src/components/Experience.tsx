@@ -37,6 +37,21 @@ const experiences = [
   //     "Collaborated with cross-functional teams (engineering, medical consultants, and business stakeholders) to align product features with compliance standards and business goals.",
   //   ],
   // },
+  
+  {
+    role: "Lead UIUX Designer / Product Manager  | Beyond Tech, Nigeria",
+    period: "January 2025 – June 2025 (Remote, Part-time, Contract)",
+    
+    details: [
+      "Strategically led the end-to-end product life cycle and designed the UX/UI for Work&Shop, a platform connecting users to service providers. Additionally, I led the redesign of the Ecomarine Group corporate website, improving its user experience and professional appeal, which directly contributed to a 25% increase in client inquiries within the first three months of launch. Also i Designed end-to-end user experiences for MyDocki, a telemedicine platform offering doctor consultations, pharmacy ordering, and patient health management.",
+
+      "Spearheaded user research that informed design iterations, leading to a 25% increase in task completion and a 40% reduction in drop-off during onboarding.",
+
+      "Designed interactive wireframes and high-fidelity prototypes using Figma, which cut design iteration cycles by 35% and accelerated stakeholder alignment.",
+      
+      "Created detailed user flows, design specs, and style guides, streamlining developer handoff and ensuring 95% design-to-dev accuracy."
+    ],
+  },
   {
     role: "Lead UIUX Designer  | Leptons Multiconcept, Nigeria",
     period: "May 2024 – June 2025 (Hybrid, Fulltime)",
@@ -48,20 +63,6 @@ const experiences = [
       "Designed interactive wireframes and high-fidelity prototypes using Figma and FigJam, which cut design iteration cycles by 35% and accelerated stakeholder alignment.",
 
       "Led end-to-end usability testing, which boosted the task success rate by 40% and drove product adoption."
-    ],
-  },
-  {
-    role: "Lead UIUX Designer / Product Manager  | Beyond Tech, Nigeria",
-    period: "January 2025 – June 2025 (Remote, Part-time, Contract)",
-    
-    details: [
-      "Strategically led the end-to-end product life cycle and designed the UX/UI for Work&Shop, a platform connecting users to service providers. Additionally, I led the redesign of the Ecomarine Group corporate website, improving its user experience and professional appeal, which directly contributed to a 25% increase in client inquiries within the first three months of launch.",
-
-      "Spearheaded user research that informed design iterations, leading to a 25% increase in task completion and a 40% reduction in drop-off during onboarding.",
-
-      "Designed interactive wireframes and high-fidelity prototypes using Figma, which cut design iteration cycles by 35% and accelerated stakeholder alignment.",
-      
-      "Created detailed user flows, design specs, and style guides, streamlining developer handoff and ensuring 95% design-to-dev accuracy."
     ],
   },
   {
