@@ -43,7 +43,7 @@ const experiences = [
     period: "January 2025 – June 2025 (Remote, Part-time, Contract)",
     
     details: [
-      "Strategically led the end-to-end product life cycle and designed the UX/UI for Work&Shop, a platform connecting users to service providers. Additionally, I led the redesign of the Ecomarine Group corporate website, improving its user experience and professional appeal, which directly contributed to a 25% increase in client inquiries within the first three months of launch. Also i Designed end-to-end user experiences for MyDocki, a telemedicine platform offering doctor consultations, pharmacy ordering, and patient health management.",
+      "Strategically led the end-to-end product life cycle and designed the UX/UI for Work&Shop, a platform connecting users to service providers. Additionally, I led the redesign of the Ecomarine Group corporate website, improving its user experience and professional appeal, which directly contributed to a 25% increase in client inquiries within the first three months of launch.",
 
       "Spearheaded user research that informed design iterations, leading to a 25% increase in task completion and a 40% reduction in drop-off during onboarding.",
 
