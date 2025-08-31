@@ -23,24 +23,24 @@ const experiences = [
 
     ],
   },
-  // {
-  //   role: "Senior UIUX Designer | MyDocki, Nigeria",
-  //   period: "March 2025 – July 2025 (Remote, Part-time, Contract)",
+  {
+    role: "Senior UIUX Designer | MyDocki, Nigeria",
+    period: "March 2025 – July 2025 (Remote, Contract)",
    
-  //   details: [
-  //     "Designed end-to-end user experiences for MyDocki, a telemedicine platform offering doctor consultations, pharmacy ordering, and patient health management.",
+    details: [
+      "Designed end-to-end user experiences for MyDocki, a telemedicine platform offering doctor consultations, pharmacy ordering, and patient health management.",
 
-  //     "Conducted user research and usability testing with patients and doctors, leading to a 30% faster consultation booking process and a 25% improvement in pharmacy order completion rates.",
+      "Conducted user research and usability testing with patients and doctors, leading to a 30% faster consultation booking process and a 25% improvement in pharmacy order completion rates.",
 
-  //     "Implemented a scalable design system that ensured consistency across the patient app, doctor portal, and pharmacy interface, reducing UI inconsistencies by 40%.",
+      "Implemented a scalable design system that ensured consistency across the patient app, doctor portal, and pharmacy interface, reducing UI inconsistencies by 40%.",
 
-  //     "Collaborated with cross-functional teams (engineering, medical consultants, and business stakeholders) to align product features with compliance standards and business goals.",
-  //   ],
-  // },
+      "Collaborated with cross-functional teams (engineering, medical consultants, and business stakeholders) to align product features with compliance standards and business goals.",
+    ],
+  },
   
   {
     role: "Lead UIUX Designer / Product Manager  | Beyond Tech, Nigeria",
-    period: "January 2025 – June 2025 (Remote, Part-time, Contract)",
+    period: "January 2025 – June 2025 (Remote, Contract)",
     
     details: [
       "Strategically led the end-to-end product life cycle and designed the UX/UI for Work&Shop, a platform connecting users to service providers. Additionally, I led the redesign of the Ecomarine Group corporate website, improving its user experience and professional appeal, which directly contributed to a 25% increase in client inquiries within the first three months of launch.",
@@ -67,7 +67,7 @@ const experiences = [
   },
   {
     role: "UIUX Design Tutor | Raadaa Partners International Limited, Nigeria",
-    period: "November 2022 - March 2023 (Remote, Fulltime, Contract)",
+    period: "November 2022 - March 2023 (Remote, Contract)",
     
     details: [
       "Taught aspiring UI/UX designers through structured lessons, workshops, and critiques, empowering over 400 students to build professional portfolios.",
