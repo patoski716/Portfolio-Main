@@ -36,7 +36,7 @@ const Nav = () => {
         <div className="flex items-center gap-[16px]">
           <div className="overflow-hidden max-h-[52px] max-w-[52px] rounded-full bg-[#48484A] border-2 border-white">
             <Image
-              src="/Assets/proc.JPG"
+              src="/Assets/profile.png"
               alt="Profile Picture"
               width={52}
               height={52}
