@@ -23,7 +23,7 @@ const HeroSection = () => {
             "
           >
             <Image
-              src="/Assets/proc.JPG"
+              src="/Assets/profile.png"
               alt="Profile Picture - Mobile"
               width={350}
               height={350}
@@ -33,7 +33,7 @@ const HeroSection = () => {
             />
 
             <Image
-              src="/Assets/proc.JPG"
+              src="/Assets/profile.png"
               alt="Profile Picture - Desktop"
               width={350}
               height={350}
